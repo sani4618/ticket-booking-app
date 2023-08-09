@@ -3,6 +3,7 @@ import React from 'react'
 const PersonalDetails = () => {
   return (
     <div>
+        <Header/>
 
         <div className="container">
             <div className="row">

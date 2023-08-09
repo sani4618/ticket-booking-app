@@ -1,8 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
 const BookingApp = () => {
   return (
     <div>
+        <Header/>
 
 
         <div className="container">
